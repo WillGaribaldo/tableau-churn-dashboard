@@ -6,14 +6,14 @@ This project is a Tableau dashboard that analyzes customer churn patterns and pr
 
 ---
 
-## 📊 Dataset
+## 📊 Data
 
 ### 1. **Telco Customer Churn**
 - **Source:** Fictional company data
 
 ---
 
-## 🧰 Core Dependencies
+## 🧰 Tools
 - Tableau 
 
 
